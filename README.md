@@ -7,7 +7,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">My [all](https://visitmy.bio/zeqraen) social media accounts ↓<br><br>
+<br><p align="center">My all social media accounts ↓<br><br>
 https://visitmy.bio/zeqraen
 
 
