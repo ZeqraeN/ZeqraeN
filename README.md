@@ -8,7 +8,7 @@
   <td width="50%">
 
 <br><p align="center">My [all](https://visitmy.bio/zeqraen) social media accounts ↓<br><br>
-  [![Linkedin](https://cdn.discordapp.com/attachments/804930405329403945/818365240516673556/giphy.webp)](https://visitmy.bio/zeqraen)
+  [![Linkedin](https://cdn.discordapp.com/attachments/804930405329403945/818366890078371840/b08cd90b6e5fcb73e637a27bc4ee9cc0.gif)](https://visitmy.bio/zeqraen)
 
 
 
