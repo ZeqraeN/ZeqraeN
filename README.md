@@ -7,7 +7,12 @@
   </td>
   <td width="50%">
 
-<br><p align="center">ZeqraeN!<br><br>
+<h3 align="left">My social media accounts:</h3>
+<p align="left">
+<a href="https://twitter.com/zeqraen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zeqraen" height="30" width="40" /></a>
+<a href="https://instagram.com/zeqraen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zeqraen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zeqraen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zeqraen" height="30" width="40" /></a>
+</p>
 
 </p>
   </td>
