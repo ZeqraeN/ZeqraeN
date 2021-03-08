@@ -8,10 +8,8 @@
   <td width="50%">
 
 <br><p align="center">My [all](https://visitmy.bio/zeqraen) social media accounts ↓<br><br>
-  [![Linkedin](https://img.shields.io/reddit/user-karma/combined/zeqraen?label=Reddit&logo=reddit&style=plastic)](https://www.reddit.com/user/ZeqraeN)
-      [![Visits](https://img.shields.io/twitch/status/twitch?color=%236441a5&logo=twitch&style=plastic)](https://twitch.tv/zeqraen)
-        [![Visits](https://img.shields.io/discord/545999987935543326?color=%237289d9&label=Discord&logo=discord&style=plastic)](https://discord.gg/B6rvT3WE4u)
-          [![Visits](https://img.shields.io/twitter/url?color=%23525252&label=Twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fzeqraen)](https://twitter.com/zeqraen)
+  [![Linkedin](https://cdn.discordapp.com/attachments/804930405329403945/818363932396748810/mona-whisper.gif)](https://visitmy.bio/zeqraen)
+
 
 
 </p>
