@@ -19,7 +19,8 @@
   <tr>
   <td width="50%">
       
-[![UwU](https://github-readme-stats.vercel.app/api/wakatime?zeqraen=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+![UwU](https://github-readme-stats.vercel.app/api?username=zeqraen&show_icons=true&theme=Gradient)
+
 
 
   </td>
