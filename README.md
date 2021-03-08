@@ -8,14 +8,13 @@
   <td width="50%">
 
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://cdn.discordapp.com/attachments/818520249959579668/818520330612113429/Adsz.png)](https://www.linkedin.com/in/andrew-novac)
-   [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818520546874097745/Adsz_1.png)](https://mailhide.io/e/5ck1H)
-  [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818521051939864686/Adsz.png)](https://github.com/novatorem)
-   [![Linkedin](https://cdn.discordapp.com/attachments/818520249959579668/818522458290257960/Adsz.png)](https://www.linkedin.com/in/andrew-novac)
-   [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818522827539611699/Adsz.png)](https://mailhide.io/e/5ck1H)
-  [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818522931239452722/Adsz_1.png)](https://github.com/novatorem)
-    [![Linkedin](https://cdn.discordapp.com/attachments/818520249959579668/818520330612113429/Adsz.png)](https://www.linkedin.com/in/andrew-novac)
-   [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818523166543708190/Adsz.png)](https://mailhide.io/e/5ck1H)
+  [![YouTube](https://cdn.discordapp.com/attachments/818520249959579668/818520330612113429/Adsz.png)](https://www.youtube.com/channel/UC5G7NOZXSzwWOoD7v5UQeYg)
+   [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818520546874097745/Adsz_1.png)](http://www.stonksx.tk/)
+  [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818521051939864686/Adsz.png)](https://www.twitch.tv/zeqraen)
+   [![Linkedin](https://cdn.discordapp.com/attachments/818520249959579668/818522458290257960/Adsz.png)](https://discord.gg/7v9ttXc6nK)
+   [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818522827539611699/Adsz.png)](https://soundcloud.com/zeqraen)
+  [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818522931239452722/Adsz_1.png)](https://www.reddit.com/user/ZeqraeN)
+   [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818523166543708190/Adsz.png)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=GqjyQ0d_R7eoLAt0tZeJLQ)
   [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818523247540437052/Adsz_1.png)](https://github.com/novatorem)
      [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818523482606141460/Adsz_1.png)](https://mailhide.io/e/5ck1H)
   [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818523484081618954/Adsz.png)](https://github.com/novatorem)
