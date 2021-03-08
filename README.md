@@ -10,7 +10,8 @@
 <br><p align="center">My [all](https://choosealicense.com/licenses/unlicense/) social media accounts ↓<br><br>
   [![Linkedin](https://img.shields.io/reddit/user-karma/combined/zeqraen?label=Reddit&logo=reddit)](https://www.linkedin.com/in/andrew-novac)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8&logo=gmail&logoColor=white)](https://mailhide.io/e/lSwPzHGx)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+  [![Visits](https://img.shields.io/twitch/status/twitch?color=%236441a5&logo=twitch)](https://twitch.tv/zeqraen)
+    [![Visits](https://img.shields.io/discord/545999987935543326?color=%237289d9&label=Discord&logo=discord)](https://twitch.tv/zeqraen)
 
 
 </p>
