@@ -17,7 +17,7 @@
   <tr>
   <td width="50%">
       
-![UwU](https://github-readme-stats.vercel.app/api?username=zeqraen&show_icons=true&theme=Gradient)
+![UwU](https://github-readme-stats.vercel.app/api?username=zeqraen&show_icons=true&theme=tokyonight)
 
 
 
