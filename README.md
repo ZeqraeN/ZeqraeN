@@ -25,7 +25,7 @@
   <td width="50%">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeqraen&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeqraen&layout=compact&theme=tokyonight)
 
 
 
