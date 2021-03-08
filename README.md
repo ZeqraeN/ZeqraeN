@@ -25,7 +25,8 @@
   <td width="50%">
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeqraen)](https://github.com/anuraghazra/github-readme-stats)
+[![Zeq](https://github-readme-stats.vercel.app/api/wakatime?username=zeqraen)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
