@@ -24,7 +24,10 @@
 
   <td width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeqraen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ZeqraeN](https://github-readme-stats.vercel.app/api/wakatime?username=zeqraen&layout=compact)
+
+
 
 </p>
   </td>
