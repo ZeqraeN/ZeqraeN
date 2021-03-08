@@ -7,7 +7,7 @@
   </td>
   <td width="50%">
 
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+<br><p align="center">All social media accounts here<br><br>
   [![YouTube](https://cdn.discordapp.com/attachments/818520249959579668/818520330612113429/Adsz.png)](https://www.youtube.com/channel/UC5G7NOZXSzwWOoD7v5UQeYg)
    [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818520546874097745/Adsz_1.png)](http://www.stonksx.tk/)
   [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818521051939864686/Adsz.png)](https://www.twitch.tv/zeqraen)
