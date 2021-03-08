@@ -25,7 +25,8 @@
   <td width="50%">
 
 
-[![Zeq](https://github-readme-stats.vercel.app/api/wakatime?username=zeqraen)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeqraen&layout=compact)
+
 
 
 
