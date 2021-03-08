@@ -25,7 +25,7 @@
   <td width="50%">
 
 
-[![ZeqraeN](https://github-readme-stats.vercel.app/api/wakatime?username=zeqraen&layout=compact)
+![ZeqraeN](https://github-readme-stats.vercel.app/api/wakatime?username=zeqraen&layout=compact)
 
 
 
