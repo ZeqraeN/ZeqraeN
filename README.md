@@ -25,7 +25,10 @@
   <td width="50%">
 
 
-![ZeqraeN](https://github-readme-stats.vercel.app/api/wakatime?username=zeqraen&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeqraen)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
