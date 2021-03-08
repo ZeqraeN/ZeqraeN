@@ -2,12 +2,12 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://novatorem-blond-omega.vercel.app/api/spotify)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=w8OnZ5BtTlijNGQsFP9x9A)
 
   </td>
   <td width="50%">
 
-<br><p align="center">My [all](https://choosealicense.com/licenses/unlicense/) social media accounts ↓<br><br>
+<br><p align="center">My [all](https://visitmy.bio/zeqraen) social media accounts ↓<br><br>
   [![Linkedin](https://img.shields.io/reddit/user-karma/combined/zeqraen?label=Reddit&logo=reddit&style=plastic)](https://www.linkedin.com/in/andrew-novac)
       [![Visits](https://img.shields.io/twitch/status/twitch?color=%236441a5&logo=twitch&style=plastic)](https://twitch.tv/zeqraen)
         [![Visits](https://img.shields.io/discord/545999987935543326?color=%237289d9&label=Discord&logo=discord&style=plastic)](https://twitch.tv/zeqraen)
