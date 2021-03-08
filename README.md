@@ -8,10 +8,10 @@
   <td width="50%">
 
 <br><p align="center">My [all](https://choosealicense.com/licenses/unlicense/) social media accounts ↓<br><br>
-  [![Linkedin](https://img.shields.io/reddit/user-karma/combined/zeqraen?label=Reddit&logo=reddit)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8&logo=gmail&logoColor=white)](https://mailhide.io/e/lSwPzHGx)
-  [![Visits](https://img.shields.io/twitch/status/twitch?color=%236441a5&logo=twitch)](https://twitch.tv/zeqraen)
-    [![Visits](https://img.shields.io/discord/545999987935543326?color=%237289d9&label=Discord&logo=discord)](https://twitch.tv/zeqraen)
+  [![Linkedin](https://img.shields.io/reddit/user-karma/combined/zeqraen?label=Reddit&logo=reddit&style=plastic)](https://www.linkedin.com/in/andrew-novac)
+      [![Visits](https://img.shields.io/twitch/status/twitch?color=%236441a5&logo=twitch&style=plastic)](https://twitch.tv/zeqraen)
+        [![Visits](https://img.shields.io/discord/545999987935543326?color=%237289d9&label=Discord&logo=discord&style=plastic)](https://twitch.tv/zeqraen)
+          [![Visits](https://img.shields.io/twitter/url?color=%23525252&label=Twitter&logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fzeqraen)](https://twitter.com/zeqraen)
 
 
 </p>
