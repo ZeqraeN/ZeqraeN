@@ -15,10 +15,9 @@
    [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818522827539611699/Adsz.png)](https://soundcloud.com/zeqraen)
   [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818522931239452722/Adsz_1.png)](https://www.reddit.com/user/ZeqraeN)
    [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818523166543708190/Adsz.png)](https://open.spotify.com/user/xr3b4ocme24xp1b5cocgarfjw?si=GqjyQ0d_R7eoLAt0tZeJLQ)
-  [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818523247540437052/Adsz_1.png)](https://ğ)
-     [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818523482606141460/Adsz_1.png)](https://ğ)
-  [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818523484081618954/Adsz.png)](https://ğ)
-    [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818523052270682122/Adsz.png)](https://ğ)
+  [![Visits](https://cdn.discordapp.com/attachments/818520249959579668/818523247540437052/Adsz_1.png)](https://steamcommunity.com/id/ZeqraeN/)
+     [![E-Mail](https://cdn.discordapp.com/attachments/818520249959579668/818523482606141460/Adsz_1.png)](https://www.instagram.com/zeqraen/)
+
 
 </p>
   </td>
